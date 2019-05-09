@@ -16,3 +16,4 @@
 - https://github.com/googlecartographer/cartographer
 - https://github.com/MRPT/mrpt
 - https://github.com/PointCloudLibrary/pcl
+- ROS - like operation system for robots?
