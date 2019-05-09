@@ -11,4 +11,7 @@
 # CUDA
 - COursera
 
-
+# Libs
+- Carla sim
+- https://github.com/MRPT/mrpt
+- https://github.com/PointCloudLibrary/pcl
