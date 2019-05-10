@@ -7,6 +7,7 @@
 
 # Self-driven
 - Coursera - просто но четко, специализация
+https://www.coursera.org/learn/state-estimation-localization-self-driving-cars/lecture/XE9kZ/lesson-3-pose-estimation-from-lidar-data
 
 # CUDA
 - COursera
